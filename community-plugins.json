@@ -15810,6 +15810,6 @@
     "name": "AI Second Brain",
     "author": "Bhavesh Patel",
     "description": "AI-powered note linking, summarization, and writing assistant using OpenAI or local LLMs.",
-    "repo": "bmpatel15/ai-second-brain",
+    "repo": "bmpatel15/ai-second-brain"
 }
 ]
