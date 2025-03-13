@@ -15805,11 +15805,11 @@
     "description": "Weather generator for the HârnMaster: Roleplaying in the World of Kèthîra rule system.",
     "repo": "marcueberall/obsidian-harn-weather"
   },
-  {
-        "id": "ai-second-brain",
-        "name": "AI-Powered Second Brain",
-        "author": "Bhavesh Patel",
-        "description": "AI-powered note linking, chat, and insights inside.",
-        "repo": "bmpatel15/ai-second-brain"
+{
+    "id": "ai-second-brain",
+    "name": "AI Second Brain",
+    "author": "Bhavesh Patel",
+    "description": "AI-powered note linking, summarization, and writing assistant using OpenAI or local LLMs.",
+    "repo": "bmpatel15/ai-second-brain",
 }
 ]
